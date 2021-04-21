@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vicky71664
+- 👋 Hi, I’m @Virender Chauhan
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning pyhton with Data Science
 - 💞️ I’m looking to collaborate 
